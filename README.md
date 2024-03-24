@@ -3,7 +3,7 @@ Hello welcome to ProxyTool
 !This Tool For Kali Linux!
 
 About ProxyTool:
-This tool is v1.0 and its take a update
+This tool is v1.2 and its take a update
 
 [ 1 ] Proxychecker
 proxychecker is check your proxy list and show you working proxys with ping and show not working proxy its save a txt for working proxys
@@ -23,6 +23,9 @@ proxy autamotor is you can add proxy and delete proxy. you can update your proxy
 
 [ 6 ] proxyfilter
 proxy filter is edit proxys. you can select proxy anonymous and country. It checks whether there is a proxy based on the option you specify.
+
+[ 7 ] Internet Tester
+internet tester is test your ping,upload,download
 
 How to Install
 
