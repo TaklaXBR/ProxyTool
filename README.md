@@ -25,6 +25,15 @@ proxy filter is edit proxys. you can select proxy anonymous and country. It chec
 [ 7 ] Internet Tester
 internet tester is test your ping,upload,download
 
+[ 8 ] Port Scanner
+port scanner is scan ip adress port and show working or not working + İts scans surrounding IPS and PORTS
+
+[ 9 ] Protocal Tester
+İts test proxy protocal example its Http proxy or https or socks4 or socks5 its check these
+
+[ 10 ] Proxy Conventer
+proxy conventer is convert proxys protocal example you have http proxy and you need socks5 proxy you can use this tool for convert socks5
+
 How to Install
 
 For Kali Linux
