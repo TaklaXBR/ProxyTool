@@ -25,6 +25,6 @@ proxy filter is edit proxys. you can select proxy anonymous and country. It chec
 How to Install
 
 ```git clone https://github.com/TaklaXBR/ProxyTool.git```
-```cd ProxyTool
+```cd ProxyTool```
 ```pip install -r requirements.txt```
 ```python main.py```
