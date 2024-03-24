@@ -1,7 +1,5 @@
 Hello welcome to ProxyTool
 
-!This Tool For Kali Linux!
-
 About ProxyTool:
 This tool is v1.2 and its take a update
 
