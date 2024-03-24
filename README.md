@@ -12,7 +12,7 @@ proxychecker is check your proxy list and show you working proxys with ping and 
 proxyfinder is for found proxy. its show you finding proxys and saving in txt.
 
 [ 3 ] Proxy Speed test
-proxy speed test is test your proxys speed and say you proxy speed and save in txt.
+proxy speed test is test your proxys speed and say you proxy speed
 
 [ 4 ] Proxy Reliablity Test
 proxy reliability test is test your proxy reliablity. What proxy reliability is test?
