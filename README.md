@@ -37,9 +37,21 @@ For Kali Linux
 
 
 For Termux
+
+
 ```apt update && apt upgrade -y```
+
+
 ```pkg install python```
+
+
 ```git clone https://github.com/TaklaXBR/ProxyTool.git```
+
+
 ```cd ProxyTool```
+
+
 ```pip install -r requirements.txt```
+
+
 ```python main.py```
