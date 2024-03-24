@@ -1,0 +1,9 @@
+requests
+colorama
+beautifulsoup4
+asyncio
+statistics
+aiohttp
+speedtest-cli
+PyInquirer
+prompt_toolkit
