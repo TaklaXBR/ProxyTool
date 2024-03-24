@@ -7,3 +7,4 @@ aiohttp
 speedtest-cli
 PyInquirer
 prompt_toolkit
+PySocks
