@@ -29,6 +29,18 @@ internet tester is test your ping,upload,download
 
 How to Install
 
+For Kali Linux
+
+```sudo apt update && sudo apt upgrade -y```
+```git clone https://github.com/TaklaXBR/ProxyTool.git```
+```cd ProxyTool```
+```pip install -r requirements.txt```
+```python main.py```
+
+
+For Termux
+```apt update && apt upgrade -y```
+```pkg install python```
 ```git clone https://github.com/TaklaXBR/ProxyTool.git```
 ```cd ProxyTool```
 ```pip install -r requirements.txt```
