@@ -1,7 +1,7 @@
 Hello welcome to ProxyTool
 
 About ProxyTool:
-This tool is v1.2 and its take a update
+This tool is v2.5 and its take a update
 
 [ 1 ] Proxychecker
 proxychecker is check your proxy list and show you working proxys with ping and show not working proxy its save a txt for working proxys
