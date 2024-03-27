@@ -62,6 +62,8 @@ For Termux
 
 ```pkg install python```
 
+```pkg install git```
+
 
 ```git clone https://github.com/TaklaXBR/ProxyTool.git```
 
