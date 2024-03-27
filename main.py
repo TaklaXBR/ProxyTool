@@ -23,7 +23,8 @@ def main_menu():
         print("7. Port Scanner")
         print("8. Protocol Tester")
         print("9. Proxy Converter")
-        print("10. Exit")
+        print("10. Internet Tester")
+        print("11. Exit")
         choice = input("Enter your choice: ")
 
         if choice == '1':
@@ -45,6 +46,8 @@ def main_menu():
         elif choice == '9':
             subprocess.run(['python', 'proxyconverter.py'])
         elif choice == '10':
+            subprocess.run(['python', 'internettester.py'])
+        elif choice == '11':
             print("Exiting...")
             break
         else:
